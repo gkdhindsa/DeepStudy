@@ -27,7 +27,7 @@ We hope to improve the performance of the summarization and the question-answer 
 
 ### How to run it
 - [x] Clone the repository to your local directory
- - `git clone https://github.com/abhishek0405/DeepStudy.git`
+ - `git clone https://github.com/gkdhindsa/DeepStudy`
  
 - [x] Activate your virtual environment. Follow steps in this link to create your virtual environment : <a href=https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/>Click here</a>
 
